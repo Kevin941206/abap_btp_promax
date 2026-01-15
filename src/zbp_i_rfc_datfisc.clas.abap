@@ -1,0 +1,5 @@
+CLASS zbp_i_rfc_datfisc DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF z_i_rfc_datfisc.
+ENDCLASS.
+
+CLASS zbp_i_rfc_datfisc IMPLEMENTATION.
+ENDCLASS.
